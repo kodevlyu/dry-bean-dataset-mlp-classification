@@ -19,7 +19,7 @@ Una empresa de selección y comercialización de semillas necesita automatizar l
 ## Contenido del repositorio
 
 ```
-├── EP1_DLY0100_DryBean_MLP.ipynb   # Notebook principal (Colab)
+├── EP1_DLY0100_DryBean_MLP.ipynb 
 └── README.md
 ```
 
